@@ -26,7 +26,7 @@ public class PasosLogin {
 	   
 	}
 
-	@Then("muestra opcion de ingreso de contraseña")
+	/*@Then("muestra opcion de ingreso de contraseña")
 	public void muestra_opcion_de_ingreso_de_contraseña() {
 	    
 	}
@@ -34,7 +34,7 @@ public class PasosLogin {
 	@Then("check more outcomes")
 	public void check_more_outcomes() {
 	    
-	}
+	}*/
 	
 
 }
