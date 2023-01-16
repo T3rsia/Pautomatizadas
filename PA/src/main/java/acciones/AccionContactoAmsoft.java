@@ -27,7 +27,7 @@ public class AccionContactoAmsoft {
 	}
 	
 	public void  cmensaje() {
-		elementoscontacto.cmensaje.sendKeys("hola esto es una prueba automatizada 12/01/23");	
+		elementoscontacto.cmensaje.sendKeys("hola esto es una prueba automatizada 16/01/23");	
 	}
 	
 	public void  ctelefono() {
